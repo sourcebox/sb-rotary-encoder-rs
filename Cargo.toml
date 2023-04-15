@@ -1,0 +1,11 @@
+[package]
+name = "sb-rotary-encoder"
+description = "Rotary encoder processor for embedded systems."
+version = "0.1.0"
+authors = ["Oliver Rockstedt <info@sourcebox.de>"]
+license = "MIT"
+edition = "2021"
+rust-version = "1.56"
+repository = "https://github.com/sourcebox/sb-rotary-encoder-rs"
+categories = ["no-std", "embedded", "hardware-support"]
+keywords = ["realtime", "driver", "rotary", "encoder"]
